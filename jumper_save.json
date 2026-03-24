@@ -1,0 +1,29 @@
+{
+  "capacity": 14,
+  "users": {
+    "mau": {
+      "level1_score": 0,
+      "level2_score": 0,
+      "level3_score": 0,
+      "levels_unlocked": 1
+    },
+    "Mauricio": {
+      "level1_score": 2000,
+      "level2_score": 5000,
+      "level3_score": 1000000000,
+      "levels_unlocked": 3
+    },
+    "karla": {
+      "level1_score": 2000,
+      "level2_score": 5000,
+      "level3_score": 0,
+      "levels_unlocked": 3
+    },
+    "Mau": {
+      "level1_score": 0,
+      "level2_score": 0,
+      "level3_score": 0,
+      "levels_unlocked": 1
+    }
+  }
+}
